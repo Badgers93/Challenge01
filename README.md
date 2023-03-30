@@ -5,5 +5,6 @@
 
 # Usage
     Link to website: https://badgers93.github.io/Challenge01/
-    Screenshot: 
-    ![Screenshot of deployed website](./assets/images/challengeOneScreenshot.png)
+    
+![Screenshot of deployed website](./assets/images/challengeOneScreenshot.png)
+    
