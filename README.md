@@ -5,4 +5,5 @@
 
 # Usage
     Link to website:
-    Screenshot: ![Screenshot of deployed website]()
+    Screenshot: 
+    ![Screenshot of deployed website](./assets/images/challengeOneScreenshot.png)
